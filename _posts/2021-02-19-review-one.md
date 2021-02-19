@@ -27,6 +27,3 @@ It was incredibly impressive how many details the creators included in the proje
 I did however find the acoustics sections a bit tedious to read as well irrelevant at times. It is understandable the creators wanted to show how the sermon would’ve been heard. However, that could’ve been covered in one, maybe two paragraphs. It didn’t really need its own section or could’ve been under the Occasion/Physical environment section. 
 
 ![church picture](hpps://yashitaprasad.gitbub.io/yashitaprasad/images/reviewone.jpg)
-
-
-
