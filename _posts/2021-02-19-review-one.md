@@ -24,5 +24,6 @@ The professional guidelines followed are outstanding. Everything is cited under 
 It was incredibly impressive how many details the creators included in the project. They included everything from the acoustics (how the sermon was heard throughout various places), John Donne (the preacher) and the environment/weather. They even covered the historical time, as well as the social times. Most of the details felt relevant event if it was straying a bit from the event itself. Adding what type of social time, it was (progressive vs conservative) can help understand why certain writings were included in the sermon. It was a great deal of research done just to cover one day in history, over top of creating images of the church itself. 
 I did however find the acoustics sections a bit tedious to read as well irrelevant at times. It is understandable the creators wanted to show how the sermon would’ve been heard. However, that could’ve been covered in one, maybe two paragraphs. It didn’t really need its own section or could’ve been under the Occasion/Physical environment section. 
 
-(yashitaprasad/yashitaprasad/images/courtyard-render-2-black-roof-WWW.jpg.)
+![church picture] (yashitaprasad/images/courtyard-render-2-black-roof-WWW.jpg)
+
 
