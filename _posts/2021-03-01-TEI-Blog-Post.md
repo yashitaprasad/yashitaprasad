@@ -2,10 +2,10 @@
 by: Yashita Prasad**
 
 
-For our DH class we had to code a section of the Yellow Wallpaper by Charlotte Perkins Stetson. At first it looked really intimidating because it was a completely new coding language then markdown (which we learned for GitHub). At first there was a bit of learning curve, but overall TEI is intuitive.
+For our DH class we had to code a section of the Yellow Wallpaper by Charlotte Perkins Stetson. At first it looked intimidating because it was a new coding language than markdown (which we learned for GitHub). At first there was a bit of learning curve, but overall TEI is intuitive.
 
 
-One of my main problems in the project was catching tiny errors. A mistake I was making initially was not putting the paragraph tags at the beginning and the end. I would get far along and then notice that the box was red. Then I would scramble to try to figure out what I did, think I missed an entire paragraph in my text. Only to discover it was a tiny error. The other tags where easier to remember because you had to look for them, while the paragraph one you had to remember as you code. Another problem I had was when I tried to do an underline. When I copied and pasted the code for underline it didn’t work, then I panicked thinking that if copy and paste didn’t work what else would. Finally, I tried typing it out by hand and it worked like a charm. 
+One of the main problems I had wth the project was catching tiny errors. A mistake I was initially making was not putting the paragraph tags at the beginning and end. I would get very far along and then notice that the box was red. Then I would scramble and try to figure out what I did wrong, thinking I missed an entire paragraph in my code. Only to discover it was a comma, or colon I missed. The other tags where easier to remember because you had to look for them, while the paragraph one you had to remember as you code. Another problem I had was when I tried to code an underline. When I copied and pasted the code for underline it didn’t work, then I panicked thinking that if copy and paste didn’t work what else would? Finally, I tried typing it out by hand and it worked like a charm. 
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (67).png)
 
@@ -13,4 +13,4 @@ This project helped me pay attention to detail, and to always double check my wo
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (50).png)
 
-Before this class, I never really considered what when into transcribing text online. To me it always seemed like a straightforward process. Especially compared to other more sophisticated and interactive websites, which I imagined required more technical coding skills. However even when doing something as simple as rewriting text, there are still many things you must look out for. Overall, this project was a great experience, and helped me gain more insight into websites and coding. 
+Before this class, I didn't consider what went into transcribing online text. It always seemed like a straightforward process. Especially compared to other more sophisticated and interactive websites, which I imagined required more technical coding skills. However even when doing something as simple as rewriting text, there are still many things you must look out for. Overall, this project was a great experience, and helped me gain more insight into websites and coding. 
