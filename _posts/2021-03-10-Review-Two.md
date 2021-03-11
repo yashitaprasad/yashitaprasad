@@ -51,4 +51,4 @@ It doesn’t say what software, or web development tools were used.
 
 **Sources** 
 
-In the "about this map" icon, it lists the sources and citations as well the work that went into making the map. This was great because you didn’t have to go around looking for the sources, but still tucked in the corner to make a seamless map. Overall, this was a well-researched, carefully made project that educated the viewer on American migration patterns in the mid-19th century. 
+In the "about this map" icon, it lists the sources and citations as well the work that went into making the map. This was great because you didn’t have to go around looking for the sources, but still tucked in the corner to make a seamless map. Overall this is a well-researched, carefully made project that educates the viewer on American migration patterns in the mid-19th century. 
