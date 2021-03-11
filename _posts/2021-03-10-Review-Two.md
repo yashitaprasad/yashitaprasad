@@ -1,8 +1,11 @@
 **Review Two** 
 
+
 **Project Name: “American Panorama”, Overland Trails (1840-1860) Map**
 
+
 **Project Director(s): Digital Scholarship Lab. Scott Nesbit contributed substantially to the preliminary drafts.**
+
 
 **Project URL: https://dsl.richmond.edu/panorama/**
 
@@ -12,6 +15,7 @@
 This review is about the Digital Humanities project “American Panorama”. “American Panorama” is a collection on United States maps, that give a history on the topic the maps are based around. This review is about The Overland Trails (1840-1860) Map. These trails seem to be a significant way people migrated throughout America before the eruption of the civil war. 
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (62).png)
+
 It’s very interesting to witness this historical period through a visual medium. When you first click in the map, the first screen gives you directions of how to use this map. Which is very helpful before you dive into the rest of the map. 
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (63).png)
