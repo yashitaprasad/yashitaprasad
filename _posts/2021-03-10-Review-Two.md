@@ -12,7 +12,7 @@
 
 **Summary**
 
-This review is about the Digital Humanities project “American Panorama”. “American Panorama” is a collection on United States maps that give a brief history of various topics. This review is about The Overland Trails (1840-1860) Map. These trails seem to be a significant way people migrated throughout America before the eruption of the civil war. 
+This review is about the Digital Humanities project “American Panorama”. “American Panorama” is a collection of United States maps that give a brief history of various topics. This review is about The Overland Trails (1840-1860) Map. These trails seem to be a significant way people migrated throughout America before the eruption of the Civil War. 
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (62).png)
 
@@ -30,7 +30,7 @@ At the top of the map it has 4 icons. One for every trail and the last one being
 
 **Diary Entries**
 
-Each diary entry gives a timeline of various people on the United States Overland Trails. It’s interesting that they only have one entry for the Mormon Trail. There were slightly less people who traveled that road, but still a considerable number. It would’ve been interesting to know why they only gave one diary entry for that road. The one diary entry for the Mormon trail is done to the same quality as all the others, so you still get an good idea of what it would’ve been like to travel that road (just like all the others).Each diary entry will either give a quote for each character, will tell you where they are headed on that day, and/or what activities they did that day. It would’ve been nice if you didn’t have to click on each entry on to see what it said, but rather if it was laid out in plain sight. That way the whole diary would’ve read seamlessly, rather than being somewhat disjointed. 
+Each diary entry gives a timeline of various people on the United States Overland Trails. It’s interesting that they only have one entry for the Mormon Trail. There were slightly less people who traveled that road, but still a considerable number. It would’ve been interesting to know why they only gave one diary entry for that road. The one diary entry for the Mormon trail is done to the same quality as all the others, so you still get an good idea of what it would’ve been like to travel that road (just like all the others).Each diary entry will either give a quote for each character, will tell you where they were headed on that day, and/or what activities they did that day. It would’ve been nice if you didn’t have to click on each entry on to see what it said, but rather if it was laid out in plain sight. That way the whole diary would’ve read seamlessly, rather than being somewhat disjointed. 
 
 ![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (65).png) 
 
@@ -51,4 +51,4 @@ It doesn’t say what software, or web development tools were used.
 
 **Sources** 
 
-In the "about this map", it lists the sources and citations as well the work that went into making the map. This was great because you didn’t have to go around looking for the sources, but still tucked in the corner to make a seamless map. Overall, this was a well-researched, carefully made project that educated us on American migration patterns in the mid-19th century. 
+In the "about this map" icon, it lists the sources and citations as well the work that went into making the map. This was great because you didn’t have to go around looking for the sources, but still tucked in the corner to make a seamless map. Overall, this was a well-researched, carefully made project that educated the viewer on American migration patterns in the mid-19th century. 
