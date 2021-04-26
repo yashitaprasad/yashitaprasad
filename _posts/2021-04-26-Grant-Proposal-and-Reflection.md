@@ -1,3 +1,6 @@
+**Grant Proposal and Reflection**
+
+
 For my grant proposal I chose to do mapping a novel. The novel was The Darkest Minds by Alexandra Bracken. The reason I choose this book was because it took place all throughout the United States, anywhere from Virginia to California. Thus, making the project doable in a summer’s worth of time but also giving enough content to map. 
 
 
