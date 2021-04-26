@@ -7,6 +7,8 @@ For my grant proposal I chose to do mapping a novel. The novel was The Darkest M
 The grant project needed software that could map out the locations. The software I choose was leaflet. Leaflet seemed easy to learn and intuitive. It was affordable as well so if I was satisfied with the map, I created I could keep it up and running for a year or two. 
 
 
+![coding picture](https://yashitaprasad.github.io/yashitaprasad/images/Screenshot (106).png)
+
 It was interesting going back and re-reading these books after years. Exploring the themes of the story again and made me think more about the book’s central messages. I realized was how much the setting affected the story. I never considered this as I read the books. The setting is almost like a secondary character to the story. For example, when they were near the in Chesapeake the story took on a more ominous feeling, but when they were traveling through the interstates by car the characters seemed more at ease. Before always just seemed like they shifted from one location to the other without giving much though to what they were doing. Which is great since each location that is mapped needs to have some significance, for it to be a good mapping project. 
 
 
