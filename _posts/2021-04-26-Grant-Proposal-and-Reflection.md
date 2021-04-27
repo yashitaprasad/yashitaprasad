@@ -26,7 +26,7 @@ It was also difficult find scholarly peer review articles because the genre of Y
 
 **Reflection**
 
-The assignments for Digital Humanities were different the more typical English/Literature ones. Instead of reading texts, we analyzed projects and articles as well as completing reviews of our own. This was helpful because we applied what we learned from class, in a more immediate way.  I really enjoyed working on review two because we got to pick the digital humanities project we reviewed, instead picking from a list. When we were shown American Panorama in class, I immediately knew I wanted to review one of those maps. They were enjoyable to go through and well researched. 
+The assignments for Digital Humanities were different from the more typical English/Literature ones. Instead of reading texts, we analyzed projects and articles as well as completing reviews of our own. This was helpful because we applied what we learned from class, in a more immediate way.  I really enjoyed working on review two because we got to pick the digital humanities project we reviewed, instead picking from a list. When we were shown American Panorama in class, I immediately knew I wanted to review one of those maps. They were enjoyable to go through and well researched. 
 
 
 Digital Humanities has taken on a more practical approach now that I have gone through this course. At first, we were learning about other people’s projects and how the field originated. Now with the projects and blogs we’ve done, it became a more interactive way to communicate with other people. 
